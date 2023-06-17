@@ -4,7 +4,7 @@ This repo was created as a way to study git. Here, I'll explain git commands tha
 ```
 git commit -m '<message>'
 ```
-This command is used to save a state of a project.
+This command is used to save a state of a project. It's aways would need a message.
 
 ---
 <h1>Push</h1>
