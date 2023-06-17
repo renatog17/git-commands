@@ -56,3 +56,24 @@ It will shows all branchs in remote repository.
 git branch -a
 ```
 It will shows all branchs both remote and local repository.
+
+```
+git branch -d <branch-name>
+```
+This command will delete a branch.
+
+```
+git branch -D <branch-name>
+```
+This command will delete a branch even if this branch has not been merged.
+
+```
+git branch -v
+```
+ou 
+
+```
+git branch --verbose
+```
+
+This command will show details of each branch 
