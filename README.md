@@ -28,6 +28,7 @@ Another way to do a ```git pull``` is using ```git fetch``` and ```git merge``` 
 
 ----
 <h1>Restore</h1>
+
 ```
 git restore <commit hash>
 ```
