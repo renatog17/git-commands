@@ -21,5 +21,5 @@ Another way to do a ```git pull``` is using ```git fetch``` and ```git merge``` 
 ----
 
 ```
-git restore <commit has>
+git restore <commit hash>
 ```
