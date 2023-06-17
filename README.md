@@ -16,6 +16,6 @@ This command is used when a new project is created. The -u means a link between 
 git pull
 ```
 Git pull is used to update a local repository with the latest changes from a remote repository.
-Another way to do a git pull is using ```git fetch``` and ```git merge``` commands.
+Another way to do a ```git pull``` is using ```git fetch``` and ```git merge``` commands.
 
 ----
