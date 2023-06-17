@@ -25,3 +25,31 @@ git restore <commit hash>
 ```
 
 This command is used when it's necessary to go back to a previous state in a project.
+
+---
+
+Git branch is used to do some operations related to branchs.
+```
+git branch
+```
+This command lists all local branchs in a repository.
+
+```
+git branch <branch-name>
+```
+With this param is possible to create a new branch.
+
+```
+git branch -d <branch-name>
+```
+This command will delete a branch passed in param.
+
+```
+git branch -r
+```
+It will show all branchs in remote repository.
+
+```
+git branch -a
+```
+It will show all branchs both remote and local repository.
