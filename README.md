@@ -19,3 +19,7 @@ Git pull is used to update a local repository with the latest changes from a rem
 Another way to do a ```git pull``` is using ```git fetch``` and ```git merge``` commands.
 
 ----
+
+```
+git restore <commit has>
+```
