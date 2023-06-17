@@ -1,17 +1,20 @@
 This repo was created as a way to study git. Here, I'll explain git commands that I have been learning.
+<h1>Commit</h1>
+
 ```
 git commit -m '<message>'
 ```
 This command is used to save a state of a project.
 
 ---
+<h1>Push</h1>
 ```
 git push -u origin main
 ```
 This command is used when a new project is created. The -u means a link between a local branch and remote branch. It is only needed at the first time, afterwards only ```git push``` can be used.
 
 ---
-
+<h1>Pull</h1>
 ```
 git pull
 ```
@@ -19,7 +22,7 @@ Git pull is used to update a local repository with the latest changes from a rem
 Another way to do a ```git pull``` is using ```git fetch``` and ```git merge``` commands.
 
 ----
-
+<h1>Restore</h1>
 ```
 git restore <commit hash>
 ```
@@ -27,7 +30,7 @@ git restore <commit hash>
 This command is used when it's necessary to go back to a previous state in a project.
 
 ---
-
+<h1>Branch</h1>
 Git branch is used to do some operations related to branchs.
 ```
 git branch
