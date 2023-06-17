@@ -23,3 +23,5 @@ Another way to do a ```git pull``` is using ```git fetch``` and ```git merge``` 
 ```
 git restore <commit hash>
 ```
+
+This command is used when it's necessary to go back to a previous state in a project.
