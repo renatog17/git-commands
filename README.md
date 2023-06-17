@@ -47,9 +47,9 @@ This command will delete a branch passed in param.
 ```
 git branch -r
 ```
-It will show all branchs in remote repository.
+It will shows all branchs in remote repository.
 
 ```
 git branch -a
 ```
-It will show all branchs both remote and local repository.
+It will shows all branchs both remote and local repository.
