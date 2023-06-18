@@ -83,3 +83,11 @@ git branch --verbose
 ```
 
 This command will show details of each branch 
+
+---
+
+Stash
+
+```
+git stash
+```
